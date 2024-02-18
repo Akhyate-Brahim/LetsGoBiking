@@ -1,0 +1,27 @@
+
+d
+4src/main/java/com/soap/client/view/RoutePainter.java,e\9\e9439753291c9f438a82b577d6cf048c337b31cf
+a
+1src/main/java/com/soap/client/view/MainFrame.java,a\e\ae20eef3e59d0023b1dc1e1b47c9a0e52e624ad4
+a
+1src/main/java/com/soap/client/view/InputView.java,d\b\db86c0973eed95f46f135f8147ea85f407ac9f62
+h
+8src/main/java/com/soap/client/util/ActiveMQConsumer.java,7\d\7d5d57c064eb18da2484592f54039603ef048d57
+c
+3src/main/java/com/soap/client/model/CustomStep.java,2\6\2679d0aa404fca8baee5ae2c33840bde36485da9
+k
+;src/main/java/com/soap/client/model/CustomRouteSegment.java,f\b\fbcdcf0defa851ac6d5349666ffb86f5ba42f55d
+a
+1src/main/java/com/soap/client/util/Converter.java,b\5\b57805b073f31b6541fe2bf8201310c8abf749a5
+o
+?src/main/java/com/soap/client/util/GeoPositionDeserializer.java,3\5\35231dedcc03d88b2a411769c7addd7e3755caba
+b
+2src/main/java/com/soap/client/util/JsonParser.java,4\b\4bf3e4709759d94bf24132cb7b37ab4748704895
+u
+Esrc/main/java/com/soap/client/controller/RoutePlanningController.java,2\5\255b087ae0a06ac7cb8e3b6fa522bc638af17b61
+_
+/src/main/java/com/soap/client/view/MapView.java,8\d\8db1f488dbfe266af5aa941629356b5adebb35d4
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+W
+'src/main/java/com/soap/client/Main.java,4\3\43b611e5e01c23bea6cb3527727da332c8aac8c1
